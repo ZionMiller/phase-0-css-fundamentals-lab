@@ -3,3 +3,19 @@ body {
   height: 100%;
   margin: 0;
 }
+* {
+  text-align: center;
+}
+img {
+  align-items: center;
+}
+figcaption {
+  font-size: 15px;
+}
+a {
+  padding-left: 10px;
+  color:#FFA500;
+}
+#featured-property {
+  width: 800;
+}
